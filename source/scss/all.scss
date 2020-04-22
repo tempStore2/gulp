@@ -1,0 +1,7 @@
+$color: red;
+body {
+  color: $color;
+  transform: rotate(120deg);
+  filter: blur(3px);
+  transform: rotate(150deg);
+}
